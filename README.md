@@ -61,7 +61,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Jeremy
-
+![Jeremy GIF](https://media.giphy.com/media/7vUwiZ4MJRNDy/giphy.gif)
 
 ### Jinsol
 
